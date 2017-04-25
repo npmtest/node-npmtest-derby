@@ -25,7 +25,7 @@
 <tspan x="10" y="362">  │ │   │ └── is-posix-bracket@0.1.1 </tspan>
 <tspan x="10" y="378">  │ │   ├── extglob@0.3.2 </tspan>
 <tspan x="10" y="394">  │ │   ├── filename-regex@2.0.0 </tspan>
-<tspan x="10" y="410">  │ │   ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="410">  │ │   ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="426">  │ │   │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="442">  │ │   ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="458">  │ │   │ └── remove-trailing-separator@1.0.1 </tspan>
@@ -76,7 +76,7 @@
 <tspan x="10" y="1178">  │ │ ├── make-error@1.2.3 </tspan>
 <tspan x="10" y="1194">  │ │ └── ot-json0@1.0.1 </tspan>
 <tspan x="10" y="1210">  │ └── uuid@2.0.3 </tspan>
-<tspan x="10" y="1226">  ├─┬ resolve@1.3.2 </tspan>
+<tspan x="10" y="1226">  ├─┬ resolve@1.3.3 </tspan>
 <tspan x="10" y="1242">  │ └── path-parse@1.0.5 </tspan>
 <tspan x="10" y="1258">  ├── through@2.3.8 </tspan>
 <tspan x="10" y="1274">  └─┬ tracks@0.5.7 </tspan>
