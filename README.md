@@ -1,6 +1,6 @@
 # npmtest-derby
 
-#### test coverage for  [derby (v0.9.7)](http://derbyjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-derby.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-derby) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-derby.svg)](https://travis-ci.org/npmtest/node-npmtest-derby)
+#### basic test coverage for  [derby (v0.9.7)](http://derbyjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-derby.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-derby) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-derby.svg)](https://travis-ci.org/npmtest/node-npmtest-derby)
 
 #### MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-derby/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-derby/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-derby/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-derby/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-derby/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-derby/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-derby/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-derby/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-derby/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-derby/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-derby/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-derby/build/coverage.html/index.html)
 
@@ -94,7 +94,8 @@
     "scripts": {
         "test": "mocha test/all/*.mocha.js; ./node_modules/.bin/jshint lib/*.js test/*.js"
     },
-    "version": "0.9.7"
+    "version": "0.9.7",
+    "bin": {}
 }
 ```
 
